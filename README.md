@@ -82,6 +82,5 @@ Rana Usman
 Frontend Developer | MERN Stack Developer
 GitHub: https://github.com/Usman-Rajput45
 
-If you want, I can also:
-✅ Add badges (Netlify, HTML, CSS, GitHub)
-✅ Make it more advanced with sections like FAQ, Contact, Credits
+
+
